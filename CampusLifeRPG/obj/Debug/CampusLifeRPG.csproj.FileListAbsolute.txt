@@ -1,0 +1,7 @@
+C:\Users\fyzoz\source\repos\CampusLifeRPG\CampusLifeRPG\bin\Debug\CampusLifeRPG.exe.config
+C:\Users\fyzoz\source\repos\CampusLifeRPG\CampusLifeRPG\bin\Debug\CampusLifeRPG.exe
+C:\Users\fyzoz\source\repos\CampusLifeRPG\CampusLifeRPG\bin\Debug\CampusLifeRPG.pdb
+C:\Users\fyzoz\source\repos\CampusLifeRPG\CampusLifeRPG\obj\Debug\CampusLifeRPG.csproj.AssemblyReference.cache
+C:\Users\fyzoz\source\repos\CampusLifeRPG\CampusLifeRPG\obj\Debug\CampusLifeRPG.csproj.CoreCompileInputs.cache
+C:\Users\fyzoz\source\repos\CampusLifeRPG\CampusLifeRPG\obj\Debug\CampusLifeRPG.exe
+C:\Users\fyzoz\source\repos\CampusLifeRPG\CampusLifeRPG\obj\Debug\CampusLifeRPG.pdb

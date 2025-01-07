@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fyzoz\\Desktop\\CampusLifeRPGREAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8526C3-9452-4642-AD7A-C300B63013F0}|CampusLifeRPG\\CampusLifeRPG.csproj|c:\\users\\fyzoz\\desktop\\campusliferpgreal\\campusliferpg\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D8526C3-9452-4642-AD7A-C300B63013F0}|CampusLifeRPG\\CampusLifeRPG.csproj|solutionrelative:campusliferpg\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8526C3-9452-4642-AD7A-C300B63013F0}|CampusLifeRPG\\CampusLifeRPG.csproj|C:\\Users\\fyzoz\\Desktop\\CampusLifeRPGREAL\\campusliferpg\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D8526C3-9452-4642-AD7A-C300B63013F0}|CampusLifeRPG\\CampusLifeRPG.csproj|solutionrelative:campusliferpg\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8526C3-9452-4642-AD7A-C300B63013F0}|CampusLifeRPG\\CampusLifeRPG.csproj|C:\\Users\\fyzoz\\Desktop\\CampusLifeRPGREAL\\campusliferpg\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D8526C3-9452-4642-AD7A-C300B63013F0}|CampusLifeRPG\\CampusLifeRPG.csproj|solutionrelative:campusliferpg\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8526C3-9452-4642-AD7A-C300B63013F0}|CampusLifeRPG\\CampusLifeRPG.csproj|C:\\Users\\fyzoz\\Desktop\\CampusLifeRPGREAL\\campusliferpg\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D8526C3-9452-4642-AD7A-C300B63013F0}|CampusLifeRPG\\CampusLifeRPG.csproj|solutionrelative:campusliferpg\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8526C3-9452-4642-AD7A-C300B63013F0}|CampusLifeRPG\\CampusLifeRPG.csproj|C:\\Users\\fyzoz\\Desktop\\CampusLifeRPGREAL\\campusliferpg\\timemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D8526C3-9452-4642-AD7A-C300B63013F0}|CampusLifeRPG\\CampusLifeRPG.csproj|solutionrelative:campusliferpg\\timemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8526C3-9452-4642-AD7A-C300B63013F0}|CampusLifeRPG\\CampusLifeRPG.csproj|C:\\Users\\fyzoz\\Desktop\\CampusLifeRPGREAL\\campusliferpg\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D8526C3-9452-4642-AD7A-C300B63013F0}|CampusLifeRPG\\CampusLifeRPG.csproj|solutionrelative:campusliferpg\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8526C3-9452-4642-AD7A-C300B63013F0}|CampusLifeRPG\\CampusLifeRPG.csproj|C:\\Users\\fyzoz\\Desktop\\CampusLifeRPGREAL\\campusliferpg\\dormitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D8526C3-9452-4642-AD7A-C300B63013F0}|CampusLifeRPG\\CampusLifeRPG.csproj|solutionrelative:campusliferpg\\dormitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8526C3-9452-4642-AD7A-C300B63013F0}|CampusLifeRPG\\CampusLifeRPG.csproj|C:\\Users\\fyzoz\\Desktop\\CampusLifeRPGREAL\\campusliferpg\\baselocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D8526C3-9452-4642-AD7A-C300B63013F0}|CampusLifeRPG\\CampusLifeRPG.csproj|solutionrelative:campusliferpg\\baselocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8526C3-9452-4642-AD7A-C300B63013F0}|CampusLifeRPG\\CampusLifeRPG.csproj|C:\\Users\\fyzoz\\Desktop\\CampusLifeRPGREAL\\campusliferpg\\recreationarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D8526C3-9452-4642-AD7A-C300B63013F0}|CampusLifeRPG\\CampusLifeRPG.csproj|solutionrelative:campusliferpg\\recreationarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8526C3-9452-4642-AD7A-C300B63013F0}|CampusLifeRPG\\CampusLifeRPG.csproj|C:\\Users\\fyzoz\\Desktop\\CampusLifeRPGREAL\\campusliferpg\\gym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D8526C3-9452-4642-AD7A-C300B63013F0}|CampusLifeRPG\\CampusLifeRPG.csproj|solutionrelative:campusliferpg\\gym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8526C3-9452-4642-AD7A-C300B63013F0}|CampusLifeRPG\\CampusLifeRPG.csproj|C:\\Users\\fyzoz\\Desktop\\CampusLifeRPGREAL\\campusliferpg\\cafeteria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D8526C3-9452-4642-AD7A-C300B63013F0}|CampusLifeRPG\\CampusLifeRPG.csproj|solutionrelative:campusliferpg\\cafeteria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8526C3-9452-4642-AD7A-C300B63013F0}|CampusLifeRPG\\CampusLifeRPG.csproj|C:\\Users\\fyzoz\\Desktop\\CampusLifeRPGREAL\\campusliferpg\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D8526C3-9452-4642-AD7A-C300B63013F0}|CampusLifeRPG\\CampusLifeRPG.csproj|solutionrelative:campusliferpg\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8526C3-9452-4642-AD7A-C300B63013F0}|CampusLifeRPG\\CampusLifeRPG.csproj|C:\\Users\\fyzoz\\Desktop\\CampusLifeRPGREAL\\campusliferpg\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D8526C3-9452-4642-AD7A-C300B63013F0}|CampusLifeRPG\\CampusLifeRPG.csproj|solutionrelative:campusliferpg\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8526C3-9452-4642-AD7A-C300B63013F0}|CampusLifeRPG\\CampusLifeRPG.csproj|C:\\Users\\fyzoz\\Desktop\\CampusLifeRPGREAL\\campusliferpg\\gamemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D8526C3-9452-4642-AD7A-C300B63013F0}|CampusLifeRPG\\CampusLifeRPG.csproj|solutionrelative:campusliferpg\\gamemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\fyzoz\\Desktop\\CampusLifeRPGREAL\\CampusLifeRPG\\Location.cs",
+              "RelativeDocumentMoniker": "CampusLifeRPG\\Location.cs",
+              "ToolTip": "C:\\Users\\fyzoz\\Desktop\\CampusLifeRPGREAL\\CampusLifeRPG\\Location.cs",
+              "RelativeToolTip": "CampusLifeRPG\\Location.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T21:47:24.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GameMap.cs",
+              "DocumentMoniker": "C:\\Users\\fyzoz\\Desktop\\CampusLifeRPGREAL\\CampusLifeRPG\\GameMap.cs",
+              "RelativeDocumentMoniker": "CampusLifeRPG\\GameMap.cs",
+              "ToolTip": "C:\\Users\\fyzoz\\Desktop\\CampusLifeRPGREAL\\CampusLifeRPG\\GameMap.cs",
+              "RelativeToolTip": "CampusLifeRPG\\GameMap.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T19:25:25.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\fyzoz\\Desktop\\CampusLifeRPGREAL\\CampusLifeRPG\\Player.cs",
+              "RelativeDocumentMoniker": "CampusLifeRPG\\Player.cs",
+              "ToolTip": "C:\\Users\\fyzoz\\Desktop\\CampusLifeRPGREAL\\CampusLifeRPG\\Player.cs",
+              "RelativeToolTip": "CampusLifeRPG\\Player.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA0wCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:27:45.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\fyzoz\\Desktop\\CampusLifeRPGREAL\\CampusLifeRPG\\Library.cs",
+              "RelativeDocumentMoniker": "CampusLifeRPG\\Library.cs",
+              "ToolTip": "C:\\Users\\fyzoz\\Desktop\\CampusLifeRPGREAL\\CampusLifeRPG\\Library.cs",
+              "RelativeToolTip": "CampusLifeRPG\\Library.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:26:16.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cafeteria.cs",
+              "DocumentMoniker": "C:\\Users\\fyzoz\\Desktop\\CampusLifeRPGREAL\\CampusLifeRPG\\Cafeteria.cs",
+              "RelativeDocumentMoniker": "CampusLifeRPG\\Cafeteria.cs",
+              "ToolTip": "C:\\Users\\fyzoz\\Desktop\\CampusLifeRPGREAL\\CampusLifeRPG\\Cafeteria.cs",
+              "RelativeToolTip": "CampusLifeRPG\\Cafeteria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:25:26.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Gym.cs",
+              "DocumentMoniker": "C:\\Users\\fyzoz\\Desktop\\CampusLifeRPGREAL\\CampusLifeRPG\\Gym.cs",
+              "RelativeDocumentMoniker": "CampusLifeRPG\\Gym.cs",
+              "ToolTip": "C:\\Users\\fyzoz\\Desktop\\CampusLifeRPGREAL\\CampusLifeRPG\\Gym.cs",
+              "RelativeToolTip": "CampusLifeRPG\\Gym.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:24:59.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RecreationArea.cs",
+              "DocumentMoniker": "C:\\Users\\fyzoz\\Desktop\\CampusLifeRPGREAL\\CampusLifeRPG\\RecreationArea.cs",
+              "RelativeDocumentMoniker": "CampusLifeRPG\\RecreationArea.cs",
+              "ToolTip": "C:\\Users\\fyzoz\\Desktop\\CampusLifeRPGREAL\\CampusLifeRPG\\RecreationArea.cs",
+              "RelativeToolTip": "CampusLifeRPG\\RecreationArea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:24:37.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseLocation.cs",
+              "DocumentMoniker": "C:\\Users\\fyzoz\\Desktop\\CampusLifeRPGREAL\\CampusLifeRPG\\BaseLocation.cs",
+              "RelativeDocumentMoniker": "CampusLifeRPG\\BaseLocation.cs",
+              "ToolTip": "C:\\Users\\fyzoz\\Desktop\\CampusLifeRPGREAL\\CampusLifeRPG\\BaseLocation.cs",
+              "RelativeToolTip": "CampusLifeRPG\\BaseLocation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:24:02.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dormitory.cs",
+              "DocumentMoniker": "C:\\Users\\fyzoz\\Desktop\\CampusLifeRPGREAL\\CampusLifeRPG\\Dormitory.cs",
+              "RelativeDocumentMoniker": "CampusLifeRPG\\Dormitory.cs",
+              "ToolTip": "C:\\Users\\fyzoz\\Desktop\\CampusLifeRPGREAL\\CampusLifeRPG\\Dormitory.cs",
+              "RelativeToolTip": "CampusLifeRPG\\Dormitory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:23:28.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Classroom.cs",
+              "DocumentMoniker": "C:\\Users\\fyzoz\\Desktop\\CampusLifeRPGREAL\\CampusLifeRPG\\Classroom.cs",
+              "RelativeDocumentMoniker": "CampusLifeRPG\\Classroom.cs",
+              "ToolTip": "C:\\Users\\fyzoz\\Desktop\\CampusLifeRPGREAL\\CampusLifeRPG\\Classroom.cs",
+              "RelativeToolTip": "CampusLifeRPG\\Classroom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:22:57.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TimeManager.cs",
+              "DocumentMoniker": "C:\\Users\\fyzoz\\Desktop\\CampusLifeRPGREAL\\CampusLifeRPG\\TimeManager.cs",
+              "RelativeDocumentMoniker": "CampusLifeRPG\\TimeManager.cs",
+              "ToolTip": "C:\\Users\\fyzoz\\Desktop\\CampusLifeRPGREAL\\CampusLifeRPG\\TimeManager.cs",
+              "RelativeToolTip": "CampusLifeRPG\\TimeManager.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:22:20.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Map.cs",
+              "DocumentMoniker": "C:\\Users\\fyzoz\\Desktop\\CampusLifeRPGREAL\\CampusLifeRPG\\Map.cs",
+              "RelativeDocumentMoniker": "CampusLifeRPG\\Map.cs",
+              "ToolTip": "C:\\Users\\fyzoz\\Desktop\\CampusLifeRPGREAL\\CampusLifeRPG\\Map.cs",
+              "RelativeToolTip": "CampusLifeRPG\\Map.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T21:47:08.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\fyzoz\\Desktop\\CampusLifeRPGREAL\\CampusLifeRPG\\GameManager.cs",
+              "RelativeDocumentMoniker": "CampusLifeRPG\\GameManager.cs",
+              "ToolTip": "C:\\Users\\fyzoz\\Desktop\\CampusLifeRPGREAL\\CampusLifeRPG\\GameManager.cs",
+              "RelativeToolTip": "CampusLifeRPG\\GameManager.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAuwH4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T21:46:48.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\fyzoz\\Desktop\\CampusLifeRPGREAL\\CampusLifeRPG\\Character.cs",
+              "RelativeDocumentMoniker": "CampusLifeRPG\\Character.cs",
+              "ToolTip": "C:\\Users\\fyzoz\\Desktop\\CampusLifeRPGREAL\\CampusLifeRPG\\Character.cs",
+              "RelativeToolTip": "CampusLifeRPG\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T00:05:34.323Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
